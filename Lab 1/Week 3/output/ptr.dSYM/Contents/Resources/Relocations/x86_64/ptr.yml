@@ -1,0 +1,14 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/joseph/Desktop/Meaning./PM/programming_methodology/Lab 1/Week 3/output/ptr'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: __Z11ptrfunctioni, symObjAddr: 0x0, symBinAddr: 0x100000CF0, symSize: 0x10 }
+  - { offset: 0x39B5, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0xF0, symBinAddr: 0x100000DE0, symSize: 0x50 }
+  - { offset: 0x39F5, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x1D0, symBinAddr: 0x100000EC0, symSize: 0x30 }
+  - { offset: 0x4C6D, size: 0x8, addend: 0x0, symName: __Z11ptrfunctioni, symObjAddr: 0x0, symBinAddr: 0x100000CF0, symSize: 0x10 }
+  - { offset: 0x4C99, size: 0x8, addend: 0x0, symName: __Z11reffunctionRi, symObjAddr: 0x10, symBinAddr: 0x100000D00, symSize: 0x10 }
+  - { offset: 0x4CC5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x20, symBinAddr: 0x100000D10, symSize: 0xB0 }
+  - { offset: 0x4DE7, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0xD0, symBinAddr: 0x100000DC0, symSize: 0x20 }
+  - { offset: 0x4E19, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x140, symBinAddr: 0x100000E30, symSize: 0x90 }
+  - { offset: 0x4E90, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x200, symBinAddr: 0x100000EF0, symSize: 0x30 }
+...
