@@ -19,6 +19,7 @@
         "vector": "cpp",
         "format": "cpp",
         "text_encoding": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "chrono": "cpp"
     }
 }
